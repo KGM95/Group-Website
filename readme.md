@@ -45,7 +45,8 @@
 <img src = "images/onlinetest.PNG" alt="hi"/>
 <br>
 <h3>Kyle Molloy</h3>
-<br>
+<br>![65826859-13372700-e2cf-11e9-9dce-22594a198894](https://user-images.githubusercontent.com/54801204/66605748-016d5200-ebf4-11e9-88e6-bf465044bc21.png)
+
 <h3>Aaron Wilkinson </h3>
 
 <h2> Ideal Jobs </h2>
@@ -54,6 +55,9 @@
 </span>
 <h3> Keetan Southwell </h3>
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
+<h4> Kyle Molloy </h4>
+<span >My ideal job would be something similar to an ICT system admin, I am interested getting into and maybe seeing where it takes me or see what insights it can give me and help me discover what I would enjoy doing whether it be completely different to this. A chilled work environment with a bit of banter and a supportive team behind you to turn to for help if need be is ideal but also something that challenges you that little bit each day and makes you use your brain, I tend to get bored easily so something I’m interested in that still gives a bit of a challenge I think would suit me well. I believe for this position you need 3 years’ experience in ICT system administration work and Tertiary qualifications in ICT or computer science or relevant industry certifications, Experience in enterprise network infrastructure, visualization technologies, active directory and windows server, backup and recovery, system monitoring and alerting. Experience in Microsoft Azure, Office 365, Zoom, Trello, Slack etc.
+  ![65826802-62c92300-e2ce-11e9-8a76-9eb3332ed4a0](https://user-images.githubusercontent.com/54801204/66606035-93755a80-ebf4-11e9-86d3-940ac73c40b8.png) </span>
 <h2> Tools </h2>
 <h2> Industry Data </h2>
 <h2> IT Work </h2>
